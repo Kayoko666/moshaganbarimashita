@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-color: powderblue
+}
+#header {
+	height:100px;
+	width:auto;
+	background-color:bisque;
+	
+}
+.header ul {
+    list-style: none;
+    float: right;
+}
+
+.header ul li {
+	float: right;
+	padding: 0px 30px;
+}
+.btn {
+    background-color: #ff9891;
+    font-size: 20px;
+    width: 200px;
+    padding: 5px 0;
+    text-align: center;
+}
+#main-contents {
+	text-align: center;
+}
